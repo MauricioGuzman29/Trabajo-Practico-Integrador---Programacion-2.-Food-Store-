@@ -120,9 +120,7 @@ https://youtu.be/hXi0bXyVrmA
 Documentación
 El informe académico se encuentra incluido dentro del repositorio en formato PDF.
 
-Archivo:
-
-Trabajo Practico Integrador Programación 2.pdf
+Archivo: Trabajo Practico Integrador Programación 2.pdf
 
 Autor
 Guzmán Mauricio Gabriel
