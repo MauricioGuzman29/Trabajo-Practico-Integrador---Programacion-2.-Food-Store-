@@ -1,8 +1,8 @@
 # Trabajo Práctico Integrador – Programación II
 
-# Alumno: Guzmán Mauricio Gabriel
+## Alumno: Guzmán Mauricio Gabriel
 
-# Descripción: Sistema de gestión de Categorías, Productos, Usuarios y Pedidos desarrollado en Java utilizando Programación Orientada a Objetos.
+## Descripción: Sistema de gestión de Categorías, Productos, Usuarios y Pedidos desarrollado en Java utilizando Programación Orientada a Objetos.
 
 #Tecnologías utilizadas:
 
@@ -10,7 +10,7 @@
 * Apache NetBeans
 * Windows PowerShell
 
-# Ejecución
+## Ejecución
 
 1. Abrir el proyecto en NetBeans.
 2. Ejecutar la clase Main.java.
@@ -22,7 +22,7 @@ Video Youtube: https://youtu.be/hXi0bXyVrmA
 
 ## Documentación PDF
 
-[PEGAR AQUÍ LINK DEL PDF EN GITHUB]
+Trabajo Practico Integrador Programación 2.pdf
 
 # Autor
 
